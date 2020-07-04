@@ -1,2 +1,2 @@
-# Portfolio_Simulation
+# Portfolio Simulation
 Random portfolio generation and optimization
